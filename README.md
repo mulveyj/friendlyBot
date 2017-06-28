@@ -1,7 +1,6 @@
 # friendlyBot
 Northcoders Project Group
 
-<div>
 
 \[InsertNameHere\] is intended to be a bot-style iPhone app for easy
 integration with productivity software, with an additional browser
@@ -9,19 +8,7 @@ interface for account management and data management. It is aimed at
 sole traders, partnerships or small business with fewer than 10
 employees.
 
-</div>
-
-<div>
-
-\
-
-</div>
-
-<div>
-
 Its key design principles are:
-
-</div>
 
 -   a simple message style user interface similar to WhatsApp.
 -   natural language style.
@@ -30,17 +17,7 @@ Its key design principles are:
 -   secure, encrypted data transfer.
 -   fast download and setup
 
-<div>
-
-\
-
-</div>
-
-<div>
-
 The app should have the following functionality:
-
-</div>
 
 -   \[Phase 1\] simple note-taking capability (native app, html notes
     accessed via browser).
@@ -53,9 +30,3 @@ The app should have the following functionality:
 -   \[Phase 2\] native timesheet app for recording work and billing.
 -   \[Phase 3\] integration with Sage or Quickbooks.
 -   \[Phase 4\] Photo recognition of receipts.
-
-<div>
-
-\
-
-</div>
