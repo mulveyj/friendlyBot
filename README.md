@@ -1,0 +1,2 @@
+# friendlyBot
+Northcoders Project Group
