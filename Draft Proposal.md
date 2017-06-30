@@ -61,3 +61,4 @@ Technology
 •	Node server, REST API, Express etc.
 
 Team: Adie Williams, Emilia Ponomareva, Sally Newell, Joe Mulvey, Sina Kabki.
+Visit our project management site: https://trello.com/b/uL7nJFkB/projectkim
